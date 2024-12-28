@@ -2,8 +2,8 @@ getgenv().Games = {
   [2753915549] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua", -- Blox Fruit Sea 1
   [4442272183] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua", -- Blox Fruit Sea 2
   [7449423635] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua", -- Blox Fruit Sea 3
+  [8737602449] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua", -- Pls Donate
   [8737899170] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua",  -- PS99 World 1
   [16498369169] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua",  -- PS99 World 2
   [17503543197] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua",  -- PS99 World 3
-  [8737602449] = "https://raw.githubusercontent.com/SpeedXHub/JdnhScriptHub/refs/heads/main/JdnhSHub/True/Lua", -- Pls Donate
 }
